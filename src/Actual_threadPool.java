@@ -1,4 +1,4 @@
-/*
+
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
@@ -46,7 +46,8 @@ class NTask implements Runnable {
 
     }
 }
-*/
+
+/*
 class Test extends abcsss{
 
     Test(){
@@ -78,3 +79,4 @@ class abcsss {
     }
 
 }
+*/
