@@ -6,3 +6,11 @@ public class lambda {
         System.out.println( converter.apply(15));
     }
 }
+
+
+
+
+
+
+
+
