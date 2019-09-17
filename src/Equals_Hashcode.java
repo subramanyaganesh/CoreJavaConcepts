@@ -1,5 +1,5 @@
 import java.util.Objects;
-// some comments for checking scm polling
+// some comments for checking scm polling .    
 public class Equals_Hashcode {
     public static void main(String[] args) {
         Fruit o1=new Fruit();
